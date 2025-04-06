@@ -1,6 +1,6 @@
 :root {
-    --main-bg-color: #fff7e9;
-    --text-color: #3f5c72;
+    --main-bg-color: inherit;
+    --text-color: #333;
     --header-text-color: var(--text-color);
     --link-color: var(--text-color);
     --highlight-color: #f05d2b;
@@ -101,6 +101,7 @@ a:hover {
         margin: 2px 1px;
     }
     .btn {
+        border-radius: 4px;
         --bs-btn-color: var(--text-color);
         --bs-btn-font-size: var(--body-font-size-desktop);
     }
@@ -153,6 +154,9 @@ a:hover {
             --bs-nav-pills-link-active-color: var(--highlight-color);
             border-bottom: solid var(--highlight-color) 1px;
         }
+    }
+    .navbar-container {
+        background-color: #fff;
     }
 }
 

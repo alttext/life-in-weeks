@@ -6,39 +6,62 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
-- class_name: "brooklyn"
+- class_name: "saint-paul"
   element: "border"
-  color_name: "#8eb2d6"
-- class_name: "san-diego"
+  color_name: "#4F2683"  # Minnesota Vikings Purple
+
+- class_name: "minneapolis"
   element: "border"
-  color_name: "#FCC737"
-- class_name: "north-carolina"
+  color_name: "#6C8EBF"  # Mississippi River blue / historic building stone blue
+
+- class_name: "washington-dc"
   element: "border"
-  color_name: "#118B50"
-- class_name: "poughkeepsie"
+  color_name: "#B22234"  # Flag red from the U.S. Capitol / American flag
+
+- class_name: "san-francisco"
   element: "border"
-  color_name: "#469046"
+  color_name: "#C1440E"  # Golden Gate Bridge International Orange
+
+- class_name: "wenatchee"
+  element: "border"
+  color_name: "#D94F04"  # Wenatchee apple red / fruit belt energy
+
+- class_name: "leavenworth"
+  element: "border"
+  color_name: "#2F5E41"  # Alpine green
+
+- class_name: "mexico"
+  element: "border"
+  color_name: "#007A33"  # Deep cactus green
+
 - class_name: "i-was-tiny"
   element: "background-color"
   color_name: "white"
+
 - class_name: "kindergartner"
   element: "background-color"
   color_name: "#FFF6DA"
+
 - class_name: "student"
   element: "background-color"
   color_name: "#E8F9FF"
+
 - class_name: "high-school-student"
   element: "background-color"
   color_name: "#C9E9D2"
+
 - class_name: "college-student"
   element: "background-color"
-  color_name: "#FFE3E3"
+  color_name: "#E19C1380"
+
 - class_name: "working"
   element: "background-color"
   color_name: "#F8E7F6"
-- class_name: "freelancing"
+
+- class_name: "running-a-startup"
   element: "background-color"
-  color_name: "#d6d6f0"
+  color_name: "#FFA500"
+
 - class_name: "funemployed"
   element: "background-color"
-  color_name: "white"
+  color_name: "#F8F8F8"
