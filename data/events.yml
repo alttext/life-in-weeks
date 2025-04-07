@@ -4,13 +4,13 @@
 #
 "1975-05-20":
     - headline: "🐣 I was born"
-      description: "I entered the world at around 9am in Saint Paul, Minbnesota, USA, the first of my brood. I was kind of a big deal...at 9.2 lbs"
+      description: "I entered the world at around 9am in Saint Paul, Minnesota, USA, the first of my brood. I was kind of a big deal...at 9.2 lbs"
       based: "Saint Paul"
       doing: "I was tiny"
 
 "1977-04-22":
     - headline: "🍼 Welp, now I have a sister"
-      description: "I didn't ask for it but I am no longe an only child. Hi, Aimee."
+      description: "I didn't ask for it but I am no longer an only child. Hi, Aimee."
 
 "1978-08-01":
     - headline: "🎳☘️❤️‍🩹 Fell Down Stairs at Bowling Alley"
@@ -38,8 +38,12 @@
     - headline: "💔 My parents split up"
       description: "I tried hard to show no reaction to the news nor be affected by it. I was a bit of a sociopath at the time."
 
+"1986-05-25":
+    - headline: "🫱🏿‍🫲🏼🫱🏻‍🫲🏽 Across America"
+      description: "My sisters and I travelled with my Dad and his other family to the outskirts of Chicago to pretend we were part of an unbroken chain of humans holding hands across America."
+
 "1988-02-02":
-    - headline: "🌈 Perfromed in the Play Free to Be You And Me"
+    - headline: "🌈 Performed in the Play Free to Be You And Me"
       description: "Mostly in ensemble parts, but I was the understudy for a duet. I was very nervous I would have to sing in front of the whole school."
 
 "1988-04-20": # unsure of exact date
@@ -52,7 +56,7 @@
 
 "1989-09-01":
     - headline: "📚 High school"
-      description: "Started at MOunds View High School, where my mom went."
+      description: "Started at Mounds View High School, where my mom went."
       based: "Saint Paul"
       doing: "High school student"
       association: "MVHS"
@@ -72,6 +76,10 @@
 "1991-09-05":
     - headline: "💝 Asked Jena to 'Go with me'"
       description: "I was trying to preempt the competition."
+
+"1991-11-15": #exact date unknown
+    - headline: "🚙 Got first car!"
+      description: "A Pontaic T-1000.Promptly slid off the road in a snowstorm."
 
 "1992-06-10": #exact date unknown
     - headline: "Moved in with my friend, Mark."
@@ -110,7 +118,7 @@
 
 "1996-12-10": # dates estimated 
     - headline: "🇲🇽📚 Left to study in Mexico"
-      description: "Jena and I studies Spanish and Mexican history in Ceuernevaca, Mexico. Did some traveling too."
+      description: "Jena and I studies Spanish and Mexican history in Cuernavaca, Mexico. Did some traveling too."
       doing: "College student"
       based: "Mexico"
 
@@ -124,12 +132,6 @@
       doing: "Working"
       based: "Minneapolis"
 
-"1997-08-15":
-    - headline: "!? Started at Imaginet"
-      description: "First (real) professional job at Imaginet."
-      based: "Saint Paul"
-      doing: "Working"
-      association: "Imaginet"
 
 "1997-12-01": #date is approx
     - headline: "👋 Met Jesse and Scott"
@@ -137,7 +139,7 @@
 
 "1998-06-21":
     - headline: "🏡 Bought our first home"
-      description: "Closed on our first townhouse the same week we got married. Spent our first night of mariage on the floor in sleeping bags. Ok one sleeping bag."
+      description: "Closed on our first townhouse the same week we got married. Spent our first night of marriage on the floor in sleeping bags. Ok one sleeping bag."
 
 "1998-06-27":
     - headline: "💍 Married Jena"
@@ -149,7 +151,7 @@
 
 "1998-09-30":
     - headline: "👩‍💻 AltText.com is born"
-      description: "Registered alttext.com. This site would be come my creative outlet, the source of profrssional inspiration, my first blogging experience, and ultimatly a source of consternation when I couldn't 'keep up' with the expectations of the medium. I remember Jason Kottke being suprised the domain was available."
+      description: "Registered alttext.com. This site would be come my creative outlet, the source of professional inspiration, my first blogging experience, and ultimately a source of consternation when I couldn't 'keep up' with the expectations of the medium. I remember Jason Kottke being suprised the domain was available."
 
 "1999-12-31":
     - headline: "💥 Y2K"
@@ -165,12 +167,6 @@
     - headline: "🎂🇲🇽 Tanya's wedding in Mexico"
       description: "Was fun to be in a foriegn country with Jena'a family."
 
-"2000-03-01": # date is an estimate
-    - headline: "Ben starts work at Risdall Advertising"
-      description: "It was fun until it wasn't"
-      based: "Saint Paul"
-      doing: "Working"
-      association: "Risdall"
 
 "2001-01-01": # date is an estimate
     - headline: "👋 Met Hiromi"
@@ -224,12 +220,6 @@
     - headline: "🇳🇱🇧🇪🇫🇷 First European vacation"
       description: "Oh the 🥖 🧀 🍷 🍺, and 🚅!."
 
-"2004-04-15": # date is estimated
-    - headline: "Start at Lominger Limited"
-      based: "Minneapolis"
-      doing: "Working"
-      association: "Lominger"
-      description: "Left Risdall becuase Scott thought I would be a good fit to lead the UI/UX efforts at Lominger. He brought Jesse and Casey in too."
 
 "2005-03-15":
     - headline: "1st SXSW Conference"
@@ -263,12 +253,6 @@
     - headline: "🦴 Brought Barkley home"
       description: "We rescued this 4 month old puppy fomr a shlter in Minneapolis."
   
-"2009-09-15": # date is approximate
-    - headline: "Founded Refactr with Jesse and Scott"
-      based: "Minneapolis"
-      doing: "Running a Startup"
-      association: "Refactr"
-      description: "We're the bosses now!"
 
 "2008-06-27":
     - headline: "💍 Married 10 years"
@@ -278,8 +262,8 @@
       description: "Went skydiving with Joe"
 
 "2010-07-03":
-    - headline: "🚐 Road trip to Kentucky with my Dad, his wife, Jena amd 3 dogs."
-      description: "Saw my grandparents for the last time."
+    - headline: "🚐 Roadtrip to Kentucky"
+      description: "My Dad, his wife, Jena amd 3 dogs crammed into a rented RV. Saw my grandparents for the last time."
 
 "2010-10-07":
     - headline: "First time in Napa"
@@ -296,6 +280,17 @@
 "2011-01-20":
     - headline: "💔 Lost my Dad"
       description: "I miss our conversations, dad.."
+
+"2011-05-30":
+    - headline: "2nd homebuilding proect gets underway"
+      description: "We're building on to our home. This will be a theme.."
+
+"2013-08-12": 
+    - headline: "DC Moved from Minnesota to DC"
+      based: "Washington DC"
+      doing: "Running a Startup"
+      association: "SmartThings"
+      description: "Can't believe we're moving across the country. Never thought it would be DC, though. Working in Geargetown but living in Adams Morgan."
 
 "2015-09-13": # date is approximate
     - headline: "🪂 Skydove again!"
@@ -356,6 +351,58 @@
 "2064-08-30":
     - headline: "☠️ Life expectancy"
       description: "I'm not sure I'll make it to 2064, but I am an optiizt, generally. (death-clock.org)."
+
+
+# Jobs & Work
+
+"1991-08-15": #exact date unknown
+    - headline: "🎯 First job"
+      description: "Worked the floor at the first Target Greatland in Shoreview, MN."
+
+"1997-08-15":
+    - headline: "!? Started at Imaginet"
+      description: "First (real) professional job at Imaginet."
+      based: "Saint Paul"
+      doing: "Working"
+      association: "Imaginet"
+
+"2000-03-01": # date is an estimate
+    - headline: "Ben starts work at Risdall Advertising"
+      description: "It was fun until it wasn't"
+      based: "Saint Paul"
+      doing: "Working"
+      association: "Risdall"
+
+"2004-04-15": # date is estimated
+    - headline: "Start at Lominger Limited"
+      based: "Minneapolis"
+      doing: "Working"
+      association: "Lominger"
+      description: "Left Risdall becuase Scott thought I would be a good fit to lead the UI/UX efforts at Lominger. He brought Jesse and Casey in too."
+
+"2009-09-15": # date is approximate
+    - headline: "Founded Refactr with Jesse and Scott"
+      based: "Minneapolis"
+      doing: "Running a Startup"
+      association: "Refactr"
+      description: "We're the bosses now!"
+
+"2012-06-28": 
+    - headline: "💡 Officially founded SmartThings"
+      doing: "Running a Startup"
+      association: "SmartThings"
+      description: "Started a smart home company with 6 other dudes. More to come on this."
+
+"2012-09-22": 
+    - headline: "$1,209,423 raised from 5,694 backers"
+      description: "The Smarthings Kickstarter campaign was the most successful technology campaign at the time."
+
+"2014-08-15": 
+    - headline: "Samsung aquires SmartThings"
+      doing: "Working"
+      association: "Samsung"
+      description: "It was quite a run. But it doesn't get any easier."
+
 
 # Presidents
 "1981-01-20":
