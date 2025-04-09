@@ -63,7 +63,7 @@
 
 "1989-09-15": # date is estimated
     - headline: "1st Homecoming Dance"
-      description: "Asked by a sophomore. Lost my virginity. 😮"
+      description: "Asked by a sophomore. 😮"
 
 "1991-05-20":
     - headline: "🪪 Drivers license"
@@ -252,7 +252,6 @@
 "2006-05-06":
     - headline: "🦴 Brought Barkley home"
       description: "We rescued this 4 month old puppy fomr a shlter in Minneapolis."
-  
 
 "2008-06-27":
     - headline: "💍 Married 10 years"
@@ -344,6 +343,10 @@
 "2025-04-02":
     - headline: "📍 Made this"
       description: "A lot of rest and reflection and space and time to explore led to finding Life in Weeks, copying it, and making it my own."
+
+"2025-04-07":
+    - headline: "Another home addition project kicks off"
+      description: "Adding on to our 'forever cabin'."
 
 "2028-06-27":
     - headline: "💍 Married 30 years"
